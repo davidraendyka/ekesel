@@ -1,1 +1,1 @@
-# ekesel
+e kesel is php project that i developed in my learning proccess
